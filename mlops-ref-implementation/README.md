@@ -2,6 +2,9 @@
 
 ## Azure
 1. [Azure MLOPS](docs/azure_mlops.pdf): PDF by microsoft explaining MS approach to MLOPS
+2. [Git link to MLOPS implementation](https://github.com/microsoft/MLOpsPython)
+3. [MLOps guidelines](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops)
+
 
 ## Databricks
 
