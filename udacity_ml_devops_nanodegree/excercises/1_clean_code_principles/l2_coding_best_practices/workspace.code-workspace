@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../tech/project/kedro"
+		},
+		{
+			"name": "cda-hackathon-2021",
+			"path": "../../../../../../../tech/git/hackathon-2021/cda-hackathon-2021"
+		},
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../python-reference/python-reference"
+		}
+	],
+	"settings": {}
+}
